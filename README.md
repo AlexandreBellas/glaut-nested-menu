@@ -17,12 +17,11 @@ Build a React component with these features:
    that reflects the hierarchical structure of the list. Each item in the JSON
    should have a name and a children array.
 
-## Requirements
+## Considerations
 
-- UI/UX: Clean and smooth, but keep it simple.
-- Testing: Write tests using your preferred framework.
-- Code: Compact, well-commented code.
-- Bonus: Add a maximum nesting level of 3.
+- The project has been built with ReactJS with functional components and Vite
+- The tests have been done with Jest
+- The styling has been done with CSS modules and inline styling
 
 ## How to run
 
@@ -41,3 +40,11 @@ npm run build
 ```
 
 and open or serve the file `index.html` under the folder `dist`.
+
+## Testing
+
+To run the project tests, execute:
+
+```bash
+npm run test
+```

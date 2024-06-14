@@ -1,0 +1,13 @@
+p {
+  padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+}
+
+input {
+  margin-top: 15;
+  margin-bottom: 15;
+}
+
+p:hover {
+  background: #f2f2f2;
+  border-radius: 8px;
+}
