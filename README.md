@@ -48,3 +48,15 @@ To run the project tests, execute:
 ```bash
 npm run test
 ```
+
+### To-do tests
+
+- [ ] Create new item
+- [ ] Edit existing item
+- [ ] Create child item
+
+- [ ] Do not allow create empty new item
+- [ ] Do not allow edit item with empty content
+- [ ] Do not allow create empty child item
+
+- [ ] Do not allow create child items with nesting higher than 3
