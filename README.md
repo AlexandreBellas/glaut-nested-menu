@@ -20,7 +20,7 @@ Build a React component with these features:
 ## Considerations
 
 - The project has been built with ReactJS with functional components and Vite
-- The tests have been done with Jest
+- The tests have been done with Vitest
 - The styling has been done with CSS modules and inline styling
 
 ## How to run
