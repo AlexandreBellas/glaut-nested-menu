@@ -56,6 +56,7 @@ export default function NestedComponentNewItemInput() {
           }}
         />
         <button
+          id="button--add-new-item"
           onClick={() => {
             onAddNewItem(newName)
           }}
