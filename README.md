@@ -31,7 +31,7 @@ To run in development, run the following:
 npm run dev
 ```
 
-and open `http://localhost:3000` in the browser.
+and open `http://localhost:5173` in the browser.
 
 To run in production, run:
 
